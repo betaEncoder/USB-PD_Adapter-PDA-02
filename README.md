@@ -21,7 +21,7 @@ USB2.0 の信号線も取り出すことができるので，既存のUSB機器�
 - DIP-SW版をラインナップ
     - PDA-02**P**：PDA-01と同じピンヘッダとショートチップによる電圧設定  
     [<img src="img/PDA-02P.jpg" width="240">](img/PDA-02P.jpg)
-    - PDA-02**S**：DIP-SWによる電圧設定(最大高さはUSBコネクタの3.1mm)
+    - PDA-02**S**：DIP-SWによる電圧設定(最大高さはUSBコネクタの3.1mm)  
     [<img src="img/PDA-02S.jpg" width="240">](img/PDA-02S.jpg)
 
 ## 注意
